@@ -2,3 +2,5 @@ langchain
 langchain-core
 langchain-groq
 python-dotenv
+pandas
+PyPDF2
