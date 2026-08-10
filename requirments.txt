@@ -4,3 +4,4 @@ langchain-groq
 python-dotenv
 pandas
 PyPDF2
+streamlit
